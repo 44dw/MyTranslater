@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Translater</string>
+    <string name="input_translate_field_off">Нажмите, чтобы перевести или найти в словаре</string>
+    <string name="output_translate_field">Перевод</string>
+    <string name="main_auto_choose_language">Определить язык автоматически</string>
+    <string name="input_translate_field_on">Введите текст</string>
+    <string name="hot_translate">горячий перевод</string>
+    <string name="hot_translate_disclaimer">Автосохранение отключено! Нажмите \"сохранить\", чтобы добавить слово в базу</string>
+    <string name="save_translate">сохранить в словаре</string>
+    <string name="last_translates">Недавние переводы</string>
+    <string name="dash">-</string>
+    <string name="translate_dictionary_hint">Поиск по словарю</string>
+    <string name="save_success">сохранено в словарь</string>
+    <string name="save_unsuccess">слово уже имеется в словаре!</string>
+</resources>
